@@ -1,2 +1,3 @@
+./.xinitrc;~/.xinitrc
 ./.bashrc;~/.bashrc
-./.profile;~/.profile
+./.bash_profile;~/.bash_profile
