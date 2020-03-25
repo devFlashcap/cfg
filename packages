@@ -1,4 +1,4 @@
 git
 vim
-xorg-server
-xorg-xinit
+i3-gaps
+i3blocks
